@@ -12,3 +12,5 @@ This repository contains an **R-based machine learning model** for predicting hi
 
 #### **Usage**  
 Run the `food_outbreaks_script.R` in RStudio to preprocess data, train the model, and generate forecasts.  
+Run the `App.R` after installing the Shiny package to check predictions
+
